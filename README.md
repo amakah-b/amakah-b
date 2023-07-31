@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on some interesting projects.
-- 🌱 I love learning new things.
+- 🌱 I enjoy learning.
 - 👯 I’m looking to collaborate on some projects.
 - 📫 How to reach me: amakahblessing.nwankwo@gmail.com
 <!--
