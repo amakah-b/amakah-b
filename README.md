@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some projects.
 - 💬 Ask me about ...
 - 📫 How to reach me: amakahblessing.nwankwo@gmail.com
-- 😄 Pronouns: She
 - ⚡ Fun fact: ...
 -->
