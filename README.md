@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on some interesting projects.
 - 🌱 I enjoy learning.
 - 👯 I’m looking to collaborate on some projects.
-- 📫 How to reach me: amakahblessing.nwankwo@gmail.com
 -  pronouns: she/her
 <!--
 **amakah-b/Blane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
